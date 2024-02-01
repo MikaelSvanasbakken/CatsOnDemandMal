@@ -1,2 +1,1 @@
-# CatsOnDemandMal
-Mal for CatsOnDemand
+# CatsOnDemand
