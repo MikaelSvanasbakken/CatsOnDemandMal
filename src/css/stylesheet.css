@@ -1,0 +1,25 @@
+
+
+html, body {
+    font-family: 'Epilogue', sans-serif;
+    height: 100%;
+}
+
+h1 {
+    align-self: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#image  {
+    max-width: 500px;
+    max-height: 500px;
+}
